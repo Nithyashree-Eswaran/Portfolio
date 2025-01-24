@@ -1,0 +1,11 @@
+:root {
+  /* Colours */
+  --color-text: #fff; /* White text */
+  --color-primary: #7F3FBF; /* Light Purple */
+  --color-secondary: #8d30cbe9; /* Medium Purple */
+  --color-dark: #69339c; /* Dark Purple */
+  --color-bg: #3c1c67; /* Dark Background with Purple Tint */
+
+  /* Fonts */
+  --font-roboto: "Roboto";
+}

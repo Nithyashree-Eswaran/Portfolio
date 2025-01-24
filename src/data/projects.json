@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Guardiana - Freshathon",
+    "imageSrc": "projects/guardiana.jpg",
+    "description": "A web application that uses image recognition to detect plant diseases from user-uploaded photos. It offers personalized solutions, product purchasing options, and preventive measures for maintaining plant health.",
+    "skills": ["Python", "HTML", "Flask", "Deep Learning", "AI"]
+  },
+  {
+    "title": "Voting Management System – Mini Project",
+    "imageSrc": "projects/VMS.jpg",
+    "description": "A project that uses ML to predict Korean drama ratings by analyzing features such as genre, content rating, release year, and other relevant factors to provide accurate predictions.",
+    "skills": ["C", "Replit.ai"]
+  },
+  {
+    "title": "K-Drama Rating Analysis",
+    "imageSrc": "projects/kdrama.jpeg",
+    "description": "A project that uses machine learning to predict Korean drama ratings by analyzing features such as genre, content rating, release year, and other relevant factors to provide accurate predictions.",
+    "skills": ["Python", "Machine Learning", "Tableau(Data Visualization)"]
+  },
+  {
+    "title": "Online Learning Platform – JDBC Project",
+    "imageSrc": "projects/OLP.jpg",
+    "description": "A platform that allows users to register, join courses, attend quizzes, view scores, and shows a leaderboard of top scorers, built using JDBC.",
+    "skills": ["Java", "JDBC", "MySQL", "Backend Development"]
+  }
+]
